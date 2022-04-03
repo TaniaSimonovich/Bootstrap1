@@ -1,0 +1,26 @@
+h1{
+    font-family: 'Days One';
+}
+
+.text{
+    font-family: 'PT Sans';
+}
+
+.ml{
+    margin-left: 23px;
+}
+
+.bg{
+    background-color: #4441DE;
+    border: none;
+}
+
+.bgF{
+    background-color: #834CBA;
+    border: none;
+}
+
+.bgf1{
+    background-color:  #B558EE;
+    border: none;
+}
